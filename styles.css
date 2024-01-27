@@ -1,0 +1,44 @@
+
+
+body{
+    display: flex;
+    justify-content: center;
+}
+
+.weather-box{
+    text-align: center;
+    background-color: gainsboro;
+    width: 400px;
+    border-radius: 10%;
+}
+h1{
+    font-size: 50px;
+    font-family: "Dosis", sans-serif;
+  
+}
+img{
+    margin-bottom: 0;
+}
+
+.temp {
+    font-size: 50px;
+    font-family: "Kanit", sans-serif;
+    margin-top: 0;
+}
+
+.sun-img{
+    display: flex;
+    justify-content: space-around;
+}
+.sun-val{
+    display: flex;
+    justify-content: space-around;
+    font-family: "Dosis", sans-serif;
+}
+.sunrise{
+    display: inline;
+}
+.sunset{
+    display: inline;
+}
+
