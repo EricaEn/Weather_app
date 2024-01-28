@@ -1,6 +1,6 @@
 const lat=59.341125; //The longitude value
 const lon=17.938935; //The latitude value
-const key= "4466c247f017fb4834309ffb220a6879"; //The key to use the API
+const key= ""; //The key to use the API
 const iconElement = document.querySelector(".icon"); //Selects the icon-class (the image)
 const tempElement = document.querySelect
 or(".temp"); //Selects the temp-class text
